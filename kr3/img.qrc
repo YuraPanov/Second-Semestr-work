@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>rrr/flower.jpg</file>
+        <file>rrr/chamomiles.jpg</file>
+        <file>rrr/water_texture2378.jpg</file>
+        <file>rrr/trava_grass_gazon_lawn.jpg</file>
+    </qresource>
+</RCC>
